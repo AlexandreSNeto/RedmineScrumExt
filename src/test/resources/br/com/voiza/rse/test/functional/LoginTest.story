@@ -6,5 +6,5 @@ I want to realizar login
 Scenario:
 
 Given o usuario encontra-se na tela de login
-When o usuario informa username aneto e password 3rd1n4x3l4
+When o usuario informa username aneto e password 12345
 Then o sistema encaminha para a home
